@@ -36,8 +36,13 @@ def main():
     if st.session_state.scroll_needed: 
         scroll_to_top(); st.session_state.scroll_needed = False
 
-    lecciones = cargar_json("lessons.json")
-    favoritos = cargar_json("favorites.json")
+    ruta_base = os.path.dirname(os.path.abspath(__file__))
+    
+    ruta_lecciones = os.path.join(ruta_base, "lessons.json")
+    ruta_favoritos = os.path.join(ruta_base, "favorites.json")
+
+    lecciones = cargar_json(ruta_lecciones)
+    favoritos = cargar_json(ruta_favoritos)
     motor = SpeechEngine()
     
     if not lecciones: st.error("⚠️ Error: No encuentro 'lessons.json'."); return
@@ -754,4 +759,5 @@ def main():
                     st.session_state.taller_construido = []; st.session_state.taller_piezas_pool = []; st.rerun()
 
 if __name__ == "__main__":
+
     main()
