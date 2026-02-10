@@ -1,0 +1,7 @@
+streamlit
+azure-cognitiveservices-speech
+python-dotenv
+pandas
+numpy
+gTTS
+psycopg2-binary

@@ -1,0 +1,148 @@
+[
+    {
+        "id": "M",
+        "title": "Lección M",
+        "letter": "M",
+        "syllables": ["Ma", "Me", "Mi", "Mo", "Mu"],
+        "word_pool": [
+            { "text": "Mimo", "syllables": ["Mi", "mo"], "emoji": "🤡" },
+            { "text": "Amo", "syllables": ["A", "mo"], "emoji": "❤️" },
+            { "text": "Mima", "syllables": ["Mi", "ma"], "emoji": "💆‍♀️" },
+            { "text": "Momia", "syllables": ["Mo", "mia"], "emoji": "🤕" },
+            { "text": "Miau", "syllables": ["Miau"], "emoji": "🐱" },
+            { "text": "Mía", "syllables": ["Mí", "a"], "emoji": "🙋‍♀️" }
+        ],
+        "sentences": [
+            "Mamá Norkis me ama",
+            "Ignacio ama a mamá",
+            "Samanta mima a mamá",
+            "Mi mamá me ama mucho",
+            "Amo a mi Mamá Norkis",
+            "Mimi mima a Miau",
+            "Mi mamá me mima a mí",
+            "Ema ama a mamá"
+        ]
+    },
+    {
+        "id": "P",
+        "title": "Lección P",
+        "letter": "P",
+        "syllables": ["Pa", "Pe", "Pi", "Po", "Pu"],
+        "word_pool": [
+            { "text": "Pipa", "syllables": ["Pi", "pa"], "emoji": "🥥" },
+            { "text": "Puma", "syllables": ["Pu", "ma"], "emoji": "🐆" },
+            { "text": "Pie", "syllables": ["Pie"], "emoji": "🦶" },
+            { "text": "Púa", "syllables": ["Pú", "a"], "emoji": "🌵" },
+            { "text": "Mapa", "syllables": ["Ma", "pa"], "emoji": "🗺️" }
+        ],
+        "sentences": [
+            "Papá José ama a Ignacio",
+            "Ignacio ama a papá",
+            "Camila ama a Abuelo Alberto",
+            "Papá ama a Camila",
+            "Mi papá me aúpa",
+            "Ese puma pisa el mapa",
+            "Papá José y el mapa",
+            "Amo a mi papá y a mi mamá"
+        ]
+    },
+    {
+        "id": "L",
+        "title": "Lección L",
+        "letter": "L",
+        "syllables": ["La", "Le", "Li", "Lo", "Lu"],
+        "word_pool": [
+            { "text": "Luna", "syllables": ["Lu", "na"], "emoji": "🌙" },
+            { "text": "León", "syllables": ["Le", "ón"], "emoji": "🦁" },
+            { "text": "Lobo", "syllables": ["Lo", "bo"], "emoji": "🐺" },
+            { "text": "Lupa", "syllables": ["Lu", "pa"], "emoji": "🔍" },
+            { "text": "Loro", "syllables": ["Lo", "ro"], "emoji": "🦜" },
+            { "text": "Libro", "syllables": ["Li", "bro"], "emoji": "📖" },
+            { "text": "Pala", "syllables": ["Pa", "la"], "emoji": "⛏️" }
+        ],
+        "sentences": [
+            "Samanta lee sola el libro",
+            "La luna sale de noche",
+            "Ignacio lee la lista",
+            "Papá José pule el carro",
+            "El león lame la loma",
+            "La lupa de papá",
+            "Lola lee a Samanta",
+            "El lobo y la luna"
+        ]
+    },
+    {
+        "id": "S",
+        "title": "Lección S",
+        "letter": "S",
+        "syllables": ["Sa", "Se", "Si", "So", "Su"],
+        "word_pool": [
+            { "text": "Sapo", "syllables": ["Sa", "po"], "emoji": "🐸" },
+            { "text": "Sopa", "syllables": ["So", "pa"], "emoji": "🍜" },
+            { "text": "Sol", "syllables": ["Sol"], "emoji": "☀️" },
+            { "text": "Suma", "syllables": ["Su", "ma"], "emoji": "➕" },
+            { "text": "Mesa", "syllables": ["Me", "sa"], "emoji": "🪑" },
+            { "text": "Oso", "syllables": ["O", "so"], "emoji": "🐻" },
+            { "text": "Sal", "syllables": ["Sal"], "emoji": "🧂" }
+        ],
+        "sentences": [
+            "Samanta pone su mesa",
+            "El sapo se asoma al sol",
+            "Ese oso pasea solo",
+            "El Sol salió hoy",
+            "Susi toma su sopa",
+            "Ignacio suma en la mesa",
+            "Esa es la mesa de mamá",
+            "El sapo salta y salta"
+        ]
+    },
+    {
+        "id": "N",
+        "title": "Lección N",
+        "letter": "N",
+        "syllables": ["Na", "Ne", "Ni", "No", "Nu"],
+        "word_pool": [
+            { "text": "Nene", "syllables": ["Ne", "ne"], "emoji": "👶" },
+            { "text": "Mano", "syllables": ["Ma", "no"], "emoji": "✋" },
+            { "text": "Mono", "syllables": ["Mo", "no"], "emoji": "🐒" },
+            { "text": "Nube", "syllables": ["Nu", "be"], "emoji": "☁️" },
+            { "text": "Pino", "syllables": ["Pi", "no"], "emoji": "🌲" },
+            { "text": "Uno", "syllables": ["U", "no"], "emoji": "1️⃣" },
+            { "text": "Nido", "syllables": ["Ni", "do"], "emoji": "🐦" }
+        ],
+        "sentences": [
+            "Ignacio ama a su mono",
+            "Nino mima a la nana",
+            "Un mono en la mano",
+            "La luna nueva ilumina",
+            "El nene no camina solo",
+            "Ese pino es alto",
+            "Una nube en el sol",
+            "La mano de papá José"
+        ]
+    },
+    {
+        "id": "T",
+        "title": "Lección T",
+        "letter": "T",
+        "syllables": ["Ta", "Te", "Ti", "To", "Tu"],
+        "word_pool": [
+            { "text": "Moto", "syllables": ["Mo", "to"], "emoji": "🏍️" },
+            { "text": "Pato", "syllables": ["Pa", "to"], "emoji": "🦆" },
+            { "text": "Tomate", "syllables": ["To", "ma", "te"], "emoji": "🍅" },
+            { "text": "Tela", "syllables": ["Te", "la"], "emoji": "🧵" },
+            { "text": "Tapa", "syllables": ["Ta", "pa"], "emoji": "🥘" },
+            { "text": "Tina", "syllables": ["Ti", "na"], "emoji": "🛁" }
+        ],
+        "sentences": [
+            "Tío Wilson toma su moto",
+            "Samanta toma té sola",
+            "El pato nada en la tina",
+            "Toma tu tomate rojo",
+            "La moto de mi tío",
+            "Papá tapa la sopa",
+            "Ignacio tiene un pato",
+            "La tela es de mamá"
+        ]
+    }
+]
